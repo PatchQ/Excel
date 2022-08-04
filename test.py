@@ -14,3 +14,5 @@ for i in b:
     ans2 = ans2+i
 
 print(ans1+ans2)
+print(ans1)
+print(ans2)
